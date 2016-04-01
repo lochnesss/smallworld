@@ -66,12 +66,16 @@ public class PathFinder {
     public boolean hasPathTo(String v) {
         return dist.contains(v);
     }
+    
+   
 
     // return the length of the shortest path from v to s
     public int distanceTo(String v) {
         if (!hasPathTo(v)) return Integer.MAX_VALUE;
         return dist.get(v);
     }
+    
+    
 
     // return the shortest path from v to s as an Iterable
     public Iterable<String> pathTo(String v) {
@@ -92,12 +96,14 @@ public class PathFinder {
         System.out.println( ">" + delimiter + "<" );
         In in = new In(filename); 
         Graph G = GraphGenerator.read(in, delimiter);
+        System.out.println( G );
         String s = args[2];
+        System.out.println( "s = "+  s);
         PathFinder pf = new PathFinder(G, s);
         
         
-        pf.report( "JFK" );
-        pf.report( "MCO" );
+        pf.report( "Citadel" );
+        pf.report( "OmegaNebula" );
         
     } // main( String [] )
 
