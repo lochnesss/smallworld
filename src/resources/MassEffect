@@ -1,55 +1,58 @@
-Citadel -> AnnosBasin
-Citadel -> KroganDMZ
-Citadel -> SileanNeb
-Citadel -> ApienCrest
-Citadel -> AthenaNebula
-Citadel -> MinosWasteland
-Citadel -> EagleNebula
-AthenaNebula -> NimbusCluster
-ApienCrest -> AethonCluster
-MinosWasteland -> IsmarFrontier
-MinosWasteland -> CrescentNebula
-EagleNebula -> CrescentNebula
-IsmarFrontier -> CrescentNebula
-CrescentNebula -> TheShrikeAbyssal
-CrescentNebula -> HourglassNebula
-CrescentNebula -> OmegaNebula
-OmegaNebula -> ValhallanThreshold
-OmegaNebula -> Sigurd'sCradle
-OmegaNebula -> PylosNebula
-OmegaNebula -> CalestonRift
-OmegaNebula -> HawkingEta
-Sigurd'sCradle -> TitanNebula
-Sigurd'sCradle -> RosettaNebula
-CalestonRift -> HawkingEta
-CalestonRift -> NubianExpanse
-CalestonRift -> ThePhoenixMassing
-ThePhoenixMassing -> HadesNexus
-ThePhoenixMassing -> FarRim
-FarRim -> PerseusVeil
-HadesNexus -> SentryOmega
-HadesNexus -> NubianExpanse
-HawkingEta -> NinmahCluster
-HawkingEta -> HorseHeadNebula
-NinmahCluster -> StyxTheta
-NinmahCluster -> ShadowSea
-NinmahCluster -> HorseheadNebula
-ShadowSea -> KeplerVerge
-ShadowSea -> MaroonSea
-ShadowSea -> ArgosRho
-ArgosRho -> HorseheadNebula
-MaroonSea -> AtticanBeta
-AtticanBeta -> NubianExpanse
-AtticanBeta -> ArmstrongNebula 
-AtticanBeta -> HadesGama
-HadesGama -> VoyagerCluster
-HadesGama -> GeminiSigma
-HadesGama -> ArtemisTau
-HadesGama -> ExodusCluster
-ExodusCluster -> Kite'sNest
-ExodusCluster -> PetraNebula 
-ExodusCluster -> LocalCluster
-ExodusCluster -> HorseheadNebula 
-PetraNebula -> ViperNebula 
-HorseheadNebula -> AnnosBasin
-LocalCluster -> ExodusCluster
+Citadel AnnosBasin
+Citadel KroganDMZ
+Citadel SileanNeb
+Citadel ApienCrest
+Citadel AthenaNebula
+Citadel MinosWasteland
+Citadel EagleNebula
+AthenaNebula NimbusCluster
+ApienCrest AethonCluster
+MinosWasteland IsmarFrontier
+MinosWasteland CrescentNebula
+EagleNebula CrescentNebula
+IsmarFrontier CrescentNebula
+CrescentNebula TheShrikeAbyssal
+CrescentNebula HourglassNebula
+CrescentNebula OmegaNebula
+OmegaNebula CrescentNebula
+OmegaNebula ValhallanThreshold
+OmegaNebula Sigurd'sCradle
+OmegaNebula PylosNebula
+OmegaNebula CalestonRift
+OmegaNebula HawkingEta
+Sigurd'sCradle TitanNebula
+Sigurd'sCradle RosettaNebula
+CalestonRift HawkingEta
+CalestonRift NubianExpanse
+CalestonRift ThePhoenixMassing
+ThePhoenixMassing HadesNexus
+ThePhoenixMassing FarRim
+FarRim PerseusVeil
+HadesNexus SentryOmega
+HadesNexus NubianExpanse
+HawkingEta NinmahCluster
+HawkingEta PangaeaExpanse
+HawkingEta HorseHeadNebula
+NinmahCluster StyxTheta
+NinmahCluster ShadowSea
+NinmahCluster HorseheadNebula
+ShadowSea KeplerVerge
+ShadowSea MaroonSea
+ShadowSea ArgosRho
+ArgosRho HorseheadNebula
+MaroonSea AtticanBeta
+AtticanBeta NubianExpanse
+AtticanBeta ArmstrongNebula 
+AtticanBeta HadesGama
+HadesGama VoyagerCluster
+HadesGama GeminiSigma
+HadesGama ArtemisTau
+HadesGama ExodusCluster
+ExodusCluster Kite'sNest
+ExodusCluster PetraNebula 
+ExodusCluster LocalCluster
+ExodusCluster HorseheadNebula 
+PetraNebula ViperNebula 
+HorseheadNebula AnnosBasin
+LocalCluster ExodusCluster
+
